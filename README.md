@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with the functions
 - 💬 Ask me about life
-- 📫 How to reach me: adamsmuga@gmail.com
+- 📫 How to reach me: adamsmuga009@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Fun is not fun
 
