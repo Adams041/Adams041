@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adams Jonathan
+# 👋 Hi, I'm Adams Jonathan (Muganda)
 
 🎓 Self-taught developer from Kenya with a passion for building web apps and exploring tech from the ground up.
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: **Python**, **JavaScript**, and **Git/GitHub**  
 - 🤔 I’m looking for help with: **functions, DOM, and project structuring**  
 - 💬 Ask me about: life, self-learning, or code  
-- 📫 How to reach me: **adamsmuga009@gmail.com**  
+- 📫 How to reach me: **adamsmuga009@gmail.com**
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I believe *fun is not fun until it's shared*
 
@@ -18,9 +18,12 @@
 
 ## 📌 Featured Project
 
-Check out my live calculator hosted on GitHub Pages:
+Check out my live projects hosted on GitHub Pages:
 
 🔗 [Simple Calculator](https://adams041.github.io/simple-calc)
+
+---
+🔗 [Counter](https://adams041.github.io/Subway-counter)
 
 ---
 
@@ -40,4 +43,4 @@ Check out my live calculator hosted on GitHub Pages:
 
 ---
 
-Thanks for visiting! Feel free to explore my repos, or [contact me](mailto:adamsmuga009@gmail.com) to collaborate or connect 🤝
+Thanks for visiting! Feel free to explore my repos, or [email me](mailto:adamsmuga009@gmail.com) to collaborate or connect on [LinkedIn](https://linkedin.com/in/adams-jonathan-muganda/) 🤝
